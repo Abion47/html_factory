@@ -1,0 +1,10 @@
+name: example
+version: 0.0.1
+description: An extension of String to enable concise HTML composition.
+
+environment:
+  sdk: '>=2.6.0 <= 3.0.0'
+
+dependencies:
+  html_factory:
+    path: ../
